@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@azure/functions/-/functions-3.0.0.tgz#1466371562591d17232d39eea2126fb5deb60beb"
   integrity sha512-nxOdQdYoy9JEdAPsQlBWavsRvbH5qT2fpwMcY64s1sLIT8QwtW7ebh/MJNgzeAac+JaC6IED7plDiizq8oZUNw==
 
-"@types/node@17.0.23":
-  version "17.0.23"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.23.tgz#3b41a6e643589ac6442bdbd7a4a3ded62f33f7da"
-  integrity sha512-UxDxWn7dl97rKVeVS61vErvw086aCYhDLyvRQZ5Rk65rZKepaFdm53GeqXaKBuOhED4e9uWq34IC3TdSdJJ2Gw==
+"@types/node@18.0.4":
+  version "18.0.4"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.0.4.tgz#48aedbf35efb3af1248e4cd4d792c730290cd5d6"
+  integrity sha512-M0+G6V0Y4YV8cqzHssZpaNCqvYwlCiulmm0PwpNLF55r/+cT8Ol42CHRU1SEaYFH2rTwiiE1aYg/2g2rrtGdPA==
 
 node-fetch@2.6.1:
   version "2.6.1"
