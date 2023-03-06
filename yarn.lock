@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@azure/functions/-/functions-3.2.0.tgz#c73003db8bd93be186824db29e98e00879bf0f91"
   integrity sha512-HbE7iORnYcjLzKNf5mIQRJQDTsVxhoXHRWEZ6KWdGh4e7+F9xTloiBicavbSoVmlAYivenIVpryHanVwsQaHUw==
 
-"@types/node@18.7.6":
-  version "18.7.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.7.6.tgz#31743bc5772b6ac223845e18c3fc26f042713c83"
-  integrity sha512-EdxgKRXgYsNITy5mjjXjVE/CS8YENSdhiagGrLqjG0pvA2owgJ6i4l7wy/PFZGC0B1/H20lWKN7ONVDNYDZm7A==
+"@types/node@18.14.6":
+  version "18.14.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-18.14.6.tgz#ae1973dd2b1eeb1825695bb11ebfb746d27e3e93"
+  integrity sha512-93+VvleD3mXwlLI/xASjw0FzKcwzl3OdTCzm1LaRfqgS21gfFtK3zDXM5Op9TeeMsJVOaJ2VRDpT9q4Y3d0AvA==
 
 data-uri-to-buffer@^4.0.0:
   version "4.0.0"
